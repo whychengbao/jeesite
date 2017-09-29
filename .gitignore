@@ -8,6 +8,7 @@
 .rar
 .idea
 *.iml
+.DS_Store
 .settings/*
 /indexes/*
 /target/*
